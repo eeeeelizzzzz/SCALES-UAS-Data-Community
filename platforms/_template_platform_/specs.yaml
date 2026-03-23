@@ -1,0 +1,9 @@
+aircraft_type: "<e.g., quadcopter>"
+num_rotors: <integer>
+sensed_variables:
+  - "<e.g., temperature>"
+  - "<e.g., humidity>"
+payload_relative_position: "<describe payload mount position relative to airframe>"
+wind_adaptation_flag: <true_or_false>
+sensor_airflow_solution: "<describe airflow mitigation approach>"
+airflow_relative_position: "<describe sensor position relative to airflow>"
