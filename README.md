@@ -1,1 +1,1 @@
-# SCALE-UAS-Data-Community
+# SCALES-UAS-Data-Community
