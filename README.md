@@ -29,7 +29,8 @@ Information for each platform with available data (within the Zenodo community) 
 - specs.yaml: A machine readable file providing a standardized set of minimum required metadata (e.g., aircraft type, sensed variables, payload position, etc.)
 - platforms/<your_platform_id>/calibration: Documentation about calibration efforts and QA procedures.
 - README.md: A technical overview of the platform and the data it provides, including metadata that extends beyond the specs.yaml file. The readme should also point to the relevant Zenodo links, include contact information, and provide relevant references. The relevant platform-based discussion thread should also be provided here.
-####🛠️ Updating & Maintaining Platform Information
+
+#### 🛠️ Updating & Maintaining Platform Information
 As an operator or collaborator, your goal is to keep your platform's "Digital Twin" in this repository accurate. Follow these steps to update information:
 1. Locate your Folder: Navigate to [platforms/](./platforms/)/<your_platform_id>/.
 2. Refine specs.yaml: Ensure the technical fields (e.g., airflow_solution, payload_position, wind_adaptation_flag) accurately reflect the physical setup used.
