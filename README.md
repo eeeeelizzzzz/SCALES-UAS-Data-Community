@@ -3,7 +3,7 @@
 ## 🎯 Repository Intention
 The SCALES UAS Data Community repository serves as the "Mission Control" for entire portfolio of UAS platforms (and other instruments) involved in the SCALES campaign. Its primary purpose is to provide a transparent, version-controlled link between raw data and curated scientific products. While Zenodo provides a permanent archive, this repository provides the context and versioning logic to determine which specific DOI version is the current recommended dataset for a given platform. By maintaining a living "Main Index," this repository directs users to the "Best-Available" version of a dataset on Zenodo, reflecting the latest intercomparison corrections and quality-control insights.
 
-Zenodo community: [https://zenodo.org/communities/scales/](zenodo.org/communities/scales) 
+Zenodo community: [zenodo.org/communities/scales](https://zenodo.org/communities/scales/) 
 
 ## ⚖️ The Golden Rule
 To maintain clarity for both developers and users, we strictly separate work from science:
