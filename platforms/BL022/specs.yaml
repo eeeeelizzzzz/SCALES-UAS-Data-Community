@@ -1,0 +1,17 @@
+# SCALES Platform Metadata: BL022; reference CopterSonde used for intercomparison
+operator_name: "University of Oklahoma/NSSL" 
+contact_email: "Tony.segales@ou.edu" 
+[cite_start]aircraft_type: "Rotary-wing" 
+num_rotors: 4 
+sensed_variables: 
+  - [cite_start]"air_temperature" 
+  - [cite_start]"relative_humidity" 
+  - [cite_start]"air_pressure" 
+  - [cite_start]"wind_speed" 
+  - [cite_start]"wind_from_direction" 
+  - [cite_start]"humidity_mixing_ratio" 
+  - [cite_start]"dew_point_temperature" 
+payload_relative_position: "nose" 
+wind_adaptation_flag: true # Typical for rotary-wing atmospheric profilers
+sensor_airflow_solution: "forced-aspiration" # Placeholder for operator verification
+airflow_relative_position: "after-sensors" # Placeholder for operator verification
