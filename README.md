@@ -9,7 +9,7 @@ Zenodo community: [zenodo.org/communities/scales](https://zenodo.org/communities
 To maintain clarity for both developers and users, we strictly separate work from science:
 - *Use [Issues](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues) for Fixes:* Actionable work including broken links, metadata corrections, missing files, and quality-control updates. Issues should be reserved for _known_ problems that need to be addressed.
 - *Use [Discussions](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions) for Everything Else:* Discussions should cover _suspected_ problems, scientific conversation, and Q&A.
-This separation ensures that maintenance remains traceable while community debate stays accessible and searchable.
+This separation ensures that maintenance remains traceable while community debate stays accessible and searchable. Every platform-related Issue and Discussion is tagged with a Platform ID label (e.g., BL022) to allow for seamless cross-referencing between technical fixes and scientific dialogue.
 
 #### 🗺️ Discussion Roadmap
 Our community dialogue is organized into four distinct categories to prevent information silos and keep technical profiles clean:
@@ -30,6 +30,11 @@ Information for each platform with available data (within the Zenodo community) 
 - platforms/<your_platform_id>/calibration: Documentation about calibration efforts and QA procedures.
 - README.md: A technical overview of the platform and the data it provides, including metadata that extends beyond the specs.yaml file. The readme should also point to the relevant Zenodo links, include contact information, and provide relevant references. The relevant platform-based discussion thread should also be provided here.
 
+## 🏷️ Navigation via Labels
+To make the SCALES fleet easy to manage, we use a global labeling system. Every platform involved in the campaign has a dedicated label in this repository that matches its ID (e.g., BL022, UNL06, FRG01).
+- Filtered Views: Clicking a platform label anywhere in the repository will instantly show you every Issue (known bug/fix), Pull Request (pending update), and Discussion (science/alert) associated with that specific aircraft.
+- Quick Access: Each platform's README.md contains direct links to these filtered views, allowing you to see the "Current Status" of a platform's data with a single click.
+
 #### 🛠️ Updating & Maintaining Platform Information
 As an operator or collaborator, your goal is to keep your platform's "Digital Twin" in this repository accurate. Follow these steps to update information:
 1. Locate your Folder: Navigate to [platforms/](./platforms/)/<your_platform_id>/.
@@ -38,3 +43,4 @@ As an operator or collaborator, your goal is to keep your platform's "Digital Tw
 4. Link your Data: Update the platform's README.md with the specific Zenodo DOIs for your NRT, Corrected, and Operator-Specified datasets as they are minted. Provide all information about your platform beyond what is reported in specs.yaml
 5. Update the Main Index: Edit the root main_data_index.csv to update rows for your platform. Ensure the entry points to the current best-available version.
 6. Submit a Pull Request: Provide a brief description of the update (e.g., "Updated calibration for BL022" or "Updated main index entry to reflect updated data on Zenodo").
+7. Tag Your Contribution: When submitting a Pull Request or opening a Data Quality Alert, ensure you apply the relevant Platform ID label (e.g., BL022) from the "Labels" menu on the right-hand sidebar. This ensures your contribution is indexed correctly in the platform's history.
