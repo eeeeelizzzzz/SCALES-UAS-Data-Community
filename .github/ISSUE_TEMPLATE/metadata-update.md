@@ -3,7 +3,6 @@ name: Metadata Update Request
 about: Propose or request an update to platform metadata and index entries
 title: "[METADATA] <platform_id> - <field to update>"
 labels: ["metadata-update"]
-assignees: []
 ---
 
 ## Update Type
@@ -34,7 +33,6 @@ Include DOI links, documentation, issue/PR links, or external references.
 ## Validation Checklist
 - [ ] Values are consistent with platform documentation
 - [ ] DOI links resolve correctly
-- [ ] Date formats use YYYY-MM-DD
 - [ ] Requested changes were reviewed by a platform contributor (if applicable)
 
 ## Additional Notes
