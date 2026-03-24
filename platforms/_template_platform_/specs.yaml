@@ -1,9 +1,16 @@
-aircraft_type: "<e.g., quadcopter>"
-num_rotors: <integer>
-sensed_variables:
-  - "<e.g., temperature>"
-  - "<e.g., humidity>"
-payload_relative_position: "<describe payload mount position relative to airframe>"
-wind_adaptation_flag: <true_or_false>
-sensor_airflow_solution: "<describe airflow mitigation approach>"
-airflow_relative_position: "<describe sensor position relative to airflow>"
+operator_name: null
+wmo_operator_id: null
+platform_model: null
+aircraft_type: null
+scales_component: null
+data_poc: null
+data_poc_email: null
+pic_ops_poc: null
+deployment_sites: null
+campaign_active_dates: null
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: null

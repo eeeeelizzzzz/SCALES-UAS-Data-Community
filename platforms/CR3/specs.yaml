@@ -1,0 +1,25 @@
+# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+operator_name: CU-B
+wmo_operator_id:
+- '1'
+platform_model: RAAVEN
+aircraft_type: Fixed-wing
+scales_component: Micro-Turb
+data_poc: Melissa Wagner
+data_poc_email: null
+pic_ops_poc:
+- Gijs de Boer
+- Michael Rhodes
+deployment_sites: other
+campaign_active_dates:
+- 8 Sept (intercomp)
+- 10 Sept
+- 11 Sept
+- 12 Sept
+- 13 Sept
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: 0

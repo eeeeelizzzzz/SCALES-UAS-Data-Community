@@ -1,0 +1,29 @@
+# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+operator_name:
+- Blackswift
+- ERAU
+wmo_operator_id:
+- '25'
+platform_model: Blackswift S1
+aircraft_type: Fixed-wing
+scales_component: Micro-Turb
+data_poc:
+- Avinash Krishnan
+- Kevin Adkins
+data_poc_email: null
+pic_ops_poc:
+- Jack Elston
+- Avinash Krishnan
+- Kevin Adkins
+deployment_sites: Turb urban UAS-S1 - River West Festival Park
+campaign_active_dates:
+- 8 Sept (intercomp)
+- 9 Sept
+- 10 Sept
+- 11 Sept
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: 0

@@ -1,17 +1,36 @@
 # SCALES Platform Metadata: BL022; reference CopterSonde used for intercomparison
-operator_name: "University of Oklahoma/NSSL" 
-contact_email: "Tony.segales@ou.edu" 
-[cite_start]aircraft_type: "Rotary-wing" 
-num_rotors: 4 
-sensed_variables: 
-  - [cite_start]"air_temperature" 
-  - [cite_start]"relative_humidity" 
-  - [cite_start]"air_pressure" 
-  - [cite_start]"wind_speed" 
-  - [cite_start]"wind_from_direction" 
-  - [cite_start]"humidity_mixing_ratio" 
-  - [cite_start]"dew_point_temperature" 
-payload_relative_position: "nose" 
-wind_adaptation_flag: true # Typical for rotary-wing atmospheric profilers
-sensor_airflow_solution: "forced-aspiration" # Placeholder for operator verification
-airflow_relative_position: "after-sensors" # Placeholder for operator verification
+operator_name:
+- OU
+- NOAA-NSSL
+wmo_operator_id:
+- '37'
+platform_model: CopterSonde-SWX
+aircraft_type: Rotary-wing
+scales_component: Meso
+data_poc: Lydia Bunting
+data_poc_email: lydia.bunting@noaa.gov
+pic_ops_poc:
+- Tyler Bell
+- Tony Segales
+deployment_sites:
+- Washington/Kessler Atmospheric and Ecological Field Station (KAEFS)
+campaign_active_dates:
+- 8 Sept (WASH)
+- 9 Sept (WASH)
+- 10 Sept (WASH)
+- 11 Sept (WASH)
+- 12 Sept (WASH)
+- 13 Sept (WASH)
+sensed_variables:
+- air_temperature
+- relative_humidity
+- air_pressure
+- wind_speed
+- wind_from_direction
+- humidity_mixing_ratio
+- dew_point_temperature
+wind_adaptation_flag: true 
+payload_relative_position: nose
+sensor_airflow_solution: forced-aspiration 
+airflow_relative_position: after-sensors
+num_rotors: 4

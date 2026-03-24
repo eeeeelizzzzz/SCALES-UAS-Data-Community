@@ -1,0 +1,27 @@
+# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+operator_name: UVA
+wmo_operator_id:
+- '75'
+- '19'
+platform_model: DJI Mini
+aircraft_type: Rotary-wing
+scales_component: Micro-Turb
+data_poc: Stephan De Wekker
+data_poc_email: null
+pic_ops_poc:
+- Stephan De Wekker
+- Nathan Rose
+deployment_sites:
+- Turb BMX N/S
+- Turb urban uas-E2 - Cascia Hall Performing Arts Center
+campaign_active_dates:
+- 8 Sept (intercomp)
+- 9 Sept
+- 10 Sept
+- 11 Sept
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: null

@@ -1,0 +1,26 @@
+# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+operator_name: OSU
+wmo_operator_id:
+- '74'
+- '30'
+platform_model: Falcon
+aircraft_type: Rotary-wing
+scales_component: Micro-UHI
+data_poc: Gus Azevedo*
+data_poc_email: null
+pic_ops_poc: Gus Azevedo*
+deployment_sites:
+- Upstream - Urban boundary
+- Bixby
+campaign_active_dates:
+- 8 Sept (intercomp)
+- 10 Sept
+- 11 Sept
+- 12 Sept
+- 13 Sept
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: null

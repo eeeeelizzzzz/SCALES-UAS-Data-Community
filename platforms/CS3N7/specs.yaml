@@ -1,0 +1,32 @@
+# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+operator_name:
+- OU
+- iMet
+wmo_operator_id:
+- '57'
+platform_model: CopterSonde 3
+aircraft_type: Rotary-wing
+scales_component: Meso
+data_poc: Alana Dachtler
+data_poc_email: null
+pic_ops_poc:
+- Lydia Bunting
+- Alana Dachtler
+- Jordan Tweedie
+deployment_sites:
+- Blackwell
+- Bixby
+- Upstream SE - Lone Star Baptist Church
+campaign_active_dates:
+- 8 Sept (intercomp)
+- 9 Sept
+- 10 Sept
+- 11 Sept
+- 12 Sept
+- 13 Sept
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: null
