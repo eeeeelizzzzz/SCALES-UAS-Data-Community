@@ -1,2 +1,3 @@
 # Local pip install target (used for one-off YAML tooling; not part of the dataset)
 .pypi-local/
+scripts/
