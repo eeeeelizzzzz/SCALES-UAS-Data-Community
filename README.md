@@ -22,7 +22,7 @@ Our community dialogue is organized into four distinct categories to prevent inf
 This repository follows a modular structure to support the dozens of systems deployed for SCALES:
 - [main_data_index.csv](./main_data_index.csv): The top-level index mapping each platform and reference to the current "best-available" data via Zenodo DOI.
 - [platforms/](./platforms/): Contains per-platform metadata, specifications, and calibration artifacts.
-- [.github/ISSUE_TEMPLATE/](./.github/ISSUE_TEMPLATE/): Standardized forms for reporting _known_ data problems, bugs, etc.
+- [.github/](./.github/): Standardized forms for pull requests and reporting _known_ data problems, bugs, etc.
 
 ## 📂 Platform-specific Documentation
 Information for each platform with available data (within the Zenodo community) is organized here. Within each platform's directory ([platforms/](./platforms/)/<your_platform_id>/) you will find the following:
