@@ -18,5 +18,8 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 - Corrected DOI: TBD
 - Operator Uploaded DOI: TBD
 
-## Platform discussion
-Link the maintainer thread for this platform from GitHub Discussions when available.
+### Platform discussion
+
+### 🔗 Quick Links
+- **[View All Issues & Alerts for UNL03](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3AUNL03)**
+- **[View All Science Discussions for UNL03](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3AUNL03)**
