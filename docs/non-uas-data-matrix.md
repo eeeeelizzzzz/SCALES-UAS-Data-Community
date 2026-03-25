@@ -1,6 +1,6 @@
 # Non-UAS SCALES data — availability matrix
 
-The SCALES field deployment included **ground-based and other non-UAS** observing systems (e.g. CLAMPS, Doppler lidars, towers, soundings) alongside UAS. This page summarizes **which non-UAS instruments appear in a campaign export bundle** by **calendar day**, with **locations taken from folder names** in that bundle. It does **not** duplicate the UAS platform index under [`platforms/`](../platforms/).
+The SCALES field deployment included **ground-based and other non-UAS** observing systems (e.g. CLAMPS, Doppler lidars, towers, soundings) alongside UAS. This page summarizes **which non-UAS instruments operated** and at **which sites** by **calendar day**. It does **not** duplicate the UAS platform index under [`platforms/`](../platforms/).
 
 ## How to read the matrix
 
@@ -28,6 +28,7 @@ The SCALES field deployment included **ground-based and other non-UAS** observin
 
 ## Notes
  - **CoMeT-2** uses **NW** vs **NNW** and **20 km** vs **5 km** labels; they are not independently verified here as distinct physical deployments but could reflect a move of the platform.
+ - iMet sondes and OSU MWS600 surface data are also available at multiple locations on the same day; this represents multiple platforms not moving between sites.
 
 
 
