@@ -20,6 +20,7 @@ These short pages keep the README skimmable; use them when editing the index or 
 - **[main_data_index.csv](./docs/main-data-index.md)** — column definitions (`Notes_ref`, `last_mod`, `Operator_ID`, etc.).
 - **[specs.yaml](./docs/specs-yaml.md)** — key glossary and how it relates to the CSV.
 - **[Calibration PDFs](./docs/calibration-artifacts.md)** — intercomparison reports and `_TRH` / `_WIND` file naming.
+- **[Non-UAS data matrix](./docs/non-uas-data-matrix.md)** — non-UAS instruments (CLAMPS, lidars, towers, soundings) and links to NSSL THREDDS catalogs.
 
 ## ⚖️ The Golden Rule
 To maintain clarity for both developers and users, we strictly separate work from science:
