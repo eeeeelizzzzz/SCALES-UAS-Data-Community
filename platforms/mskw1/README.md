@@ -23,3 +23,6 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for mskw1](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3Amskw1)**
 - **[View All Science Discussions for mskw1](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3Amskw1)**
+### 🔗 Quick Links
+- **[View All Issues & Alerts for mskw1](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3Amskw1)**
+- **[View All Science Discussions for mskw1](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3Amskw1)**

@@ -23,10 +23,13 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for 4H9FW](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3A4H9FW)**
 - **[View All Science Discussions for 4H9FW](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3A4H9FW)**
+### 🔗 Quick Links
+- **[View All Issues & Alerts for 4H9FW](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3A4H9FW)**
+- **[View All Science Discussions for 4H9FW](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3A4H9FW)**
 
 ## Active Sites by IOP Day
 
-Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+Source: snapshot of UAS data uploaded to the WMO-UAS-DC database as of 20251208 (SCALES_UAS_BY_IOP_final–style catalogs).
 
 - **20240909:** Turb BMX N/S
 - **20240910:** Turb BMX N/S

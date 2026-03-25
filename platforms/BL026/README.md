@@ -29,10 +29,13 @@ Segales, A. R., T. M. Bell, A. Al Tasim, A. Quiroz, J. Simms, J. Gebauer, and E.
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for BL026](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3ABL026)**
 - **[View All Science Discussions for BL026](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3ABL026)**
+### 🔗 Quick Links
+- **[View All Issues & Alerts for BL026](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3ABL026)**
+- **[View All Science Discussions for BL026](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3ABL026)**
 
 ## Active Sites by IOP Day
 
-Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+Source: snapshot of UAS data uploaded to the WMO-UAS-DC database as of 20251208 (SCALES_UAS_BY_IOP_final–style catalogs).
 
 - **20240909:** Norman/Westheimer
 - **20240911:** Washington/Kessler

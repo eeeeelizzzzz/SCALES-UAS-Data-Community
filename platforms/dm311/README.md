@@ -23,10 +23,13 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for dm311](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3Adm311)**
 - **[View All Science Discussions for dm311](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3Adm311)**
+### 🔗 Quick Links
+- **[View All Issues & Alerts for dm311](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3Adm311)**
+- **[View All Science Discussions for dm311](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3Adm311)**
 
 ## Active Sites by IOP Day
 
-Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+Source: snapshot of UAS data uploaded to the WMO-UAS-DC database as of 20251208 (SCALES_UAS_BY_IOP_final–style catalogs).
 
 - **20240909:** Upstream SE - Lone Star Baptist Church
 - **20240910:** Upstream SE - Lone Star Baptist Church

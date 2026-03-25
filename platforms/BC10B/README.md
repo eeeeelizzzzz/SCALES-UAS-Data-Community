@@ -23,3 +23,6 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for BC10B](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3ABC10B)**
 - **[View All Science Discussions for BC10B](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3ABC10B)**
+### 🔗 Quick Links
+- **[View All Issues & Alerts for BC10B](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3ABC10B)**
+- **[View All Science Discussions for BC10B](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3ABC10B)**

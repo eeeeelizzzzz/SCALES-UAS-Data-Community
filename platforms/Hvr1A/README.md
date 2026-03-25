@@ -23,3 +23,6 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for Hvr1A](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3AHvr1A)**
 - **[View All Science Discussions for Hvr1A](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3AHvr1A)**
+### 🔗 Quick Links
+- **[View All Issues & Alerts for Hvr1A](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3AHvr1A)**
+- **[View All Science Discussions for Hvr1A](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3AHvr1A)**

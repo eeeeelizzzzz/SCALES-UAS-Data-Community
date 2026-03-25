@@ -26,7 +26,7 @@ Segales, A. R., T. M. Bell, A. Al Tasim, A. Quiroz, J. Simms, J. Gebauer, and E.
 
 ## Active Sites by IOP Day
 
-Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+Source: snapshot of UAS data uploaded to the WMO-UAS-DC database as of 20251208 (SCALES_UAS_BY_IOP_final–style catalogs).
 
 - **20240909:** Okemah
 - **20240910:** Okemah
@@ -35,6 +35,9 @@ Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
 
 ### Platform discussion
 
+### 🔗 Quick Links
+- **[View All Issues & Alerts for BL022](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3ABL022)**
+- **[View All Science Discussions for BL022](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3ABL022)**
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for BL022](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3ABL022)**
 - **[View All Science Discussions for BL022](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3ABL022)**
