@@ -6,8 +6,8 @@
 - **WMO operator ID:** 12
 - **Platform type:** Rotor
 - **SCALES component:** Micro-Turb
-- **Sites / locations:** Turb urban UAS-S1 - River West Festival Park, Turb Urban UAS N
-- **Active dates (campaign):** 8 Sept (intercomp), 12 Sept, 13 Sept, 9 Sept, 10 Sept, 11 Sept
+- **Sites / locations:** Turb Urban UAS N, Turb urban UAS-S1 - River West Festival Park
+- **Active dates (campaign):** 20240908 (intercomp), 20240909 (Turb Urban UAS N), 20240910 (Turb Urban UAS N), 20240911 (Turb Urban UAS N), 20240912 (Turb urban UAS-S1 - River West Festival Park), 20240913 (Turb urban UAS-S1 - River West Festival Park)
 - **PIC / ops POC:** Sean Bailey
 - **Data POC:** Sean Bailey
 
@@ -23,3 +23,14 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for Hvr1B](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3AHvr1B)**
 - **[View All Science Discussions for Hvr1B](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3AHvr1B)**
+
+## Active Sites by IOP Day
+
+Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+
+- **20240909:** Turb Urban UAS N
+- **20240910:** Turb Urban UAS N
+- **20240911:** Turb Urban UAS N
+- **20240912:** Turb urban UAS-S1 - River West Festival Park
+- **20240913:** Turb urban UAS-S1 - River West Festival Park
+

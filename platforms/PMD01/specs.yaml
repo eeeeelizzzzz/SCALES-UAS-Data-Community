@@ -10,12 +10,11 @@ data_poc_email: null
 pic_ops_poc: Jackson Osborn
 deployment_sites: Stillwater
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240909 (Stillwater)
+- 20240910 (Stillwater)
+- 20240911 (Stillwater)
+- 20240912 (Stillwater)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

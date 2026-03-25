@@ -18,10 +18,11 @@ labels: ["metadata-update"]
 - Related file(s) (e.g., `platforms/<platform_id>/specs.yaml`, `main_data_index.csv`):
 
 ## Requested Metadata Changes
-List each field and the proposed new value.
+List each field and the proposed new value. You may use a table:
 
 | Field | Current Value | Proposed Value | Justification |
-|---|---|---|---|
+| --- | --- | --- | --- |
+| | | | |
 | | | | |
 
 ## Scientific or Operational Justification

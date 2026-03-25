@@ -1,4 +1,4 @@
-# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+# SCALES platform metadata: BL025; reference CopterSonde used for intercomparison
 operator_name:
 - OU
 - NOAA-NSSL
@@ -8,7 +8,7 @@ platform_model: CopterSonde-SWX
 aircraft_type: Rotary-wing
 scales_component: Meso
 data_poc: Lydia Bunting
-data_poc_email: null
+data_poc_email: lydia.bunting@noaa.gov
 pic_ops_poc:
 - Tyler Bell
 - Tony Segales
@@ -16,12 +16,11 @@ deployment_sites:
 - Norman/Westheimer
 - Washington/Kessler
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240909 (Washington/Kessler)
+- 20240910 (Norman/Westheimer)
+- 20240911 (Norman/Westheimer)
+- 20240912 (Norman/Westheimer)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

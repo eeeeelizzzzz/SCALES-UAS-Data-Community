@@ -11,7 +11,7 @@ labels: ["data-bug"]
 - Data product affected:
 - Relevant DOI or link:
 
-- ## Summary
+## Summary
 Provide a concise description of the data issue.
 
 ## Expected vs Actual

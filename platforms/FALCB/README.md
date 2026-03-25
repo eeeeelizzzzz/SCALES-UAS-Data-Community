@@ -3,11 +3,11 @@
 ## Overview
 - **Platform model:** Falcon
 - **Operator:** OSU
-- **WMO operator ID:** 74
+- **WMO operator ID:** 74, 30
 - **Platform type:** Rotor
 - **SCALES component:** Micro-UHI
-- **Sites / locations:** Upstream - Urban boundary, Bixby
-- **Active dates (campaign):** 8 Sept (intercomp), 10 Sept, 11 Sept, 12 Sept, 13 Sept
+- **Sites / locations:** Upstream - Urban boundary
+- **Active dates (campaign):** 20240908 (intercomp), 20240913 (Upstream - Urban boundary)
 - **PIC / ops POC:** Gus Azevedo*
 - **Data POC:** Gus Azevedo*
 
@@ -23,3 +23,10 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for FALCB](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3AFALCB)**
 - **[View All Science Discussions for FALCB](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3AFALCB)**
+
+## Active Sites by IOP Day
+
+Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+
+- **20240913:** Upstream - Urban boundary
+

@@ -12,11 +12,12 @@ pic_ops_poc:
 - Michael Rhodes
 deployment_sites: other
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240909 (Turb Urban UAS N-2 BS Roberts Park; Turb urban UAS-S1 - River West Festival Park)
+- 20240910 (Turb Urban UAS N-2 BS Roberts Park)
+- 20240911 (Turb Urban UAS N-2 BS Roberts Park)
+- 20240912 (Turb Urban UAS N-2 BS Roberts Park)
+- 20240913 (Turb Urban UAS N-2 BS Roberts Park)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

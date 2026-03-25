@@ -1,26 +1,24 @@
-# SCALES Platform Metadata: BL022; reference CopterSonde used for intercomparison
+# SCALES Platform Metadata: BL022
 operator_name:
 - OU
 - NOAA-NSSL
 wmo_operator_id:
 - '37'
-platform_model: CopterSonde-SWX
+platform_model: CopterSonde-3D
 aircraft_type: Rotary-wing
 scales_component: Meso
 data_poc: Lydia Bunting
 data_poc_email: lydia.bunting@noaa.gov
 pic_ops_poc:
-- Tyler Bell
-- Tony Segales
+- Elizabeth Smith
 deployment_sites:
-- Washington/Kessler Atmospheric and Ecological Field Station (KAEFS)
+- Okemah
 campaign_active_dates:
-- 8 Sept (WASH)
-- 9 Sept (WASH)
-- 10 Sept (WASH)
-- 11 Sept (WASH)
-- 12 Sept (WASH)
-- 13 Sept (WASH)
+- 20240908 (WASH)
+- 20240909 (Okemah)
+- 20240910 (Okemah)
+- 20240911 (Okemah)
+- 20240912 (Okemah)
 sensed_variables:
 - air_temperature
 - relative_humidity

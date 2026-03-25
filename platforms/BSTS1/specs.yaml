@@ -17,10 +17,10 @@ pic_ops_poc:
 - Kevin Adkins
 deployment_sites: Turb urban UAS-S1 - River West Festival Park
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
+- 20240908 (intercomp)
+- 20240909 (Turb urban UAS-S1 - River West Festival Park)
+- 20240910 (Turb urban UAS-S1 - River West Festival Park)
+- 20240911 (Turb urban UAS-S1 - River West Festival Park)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

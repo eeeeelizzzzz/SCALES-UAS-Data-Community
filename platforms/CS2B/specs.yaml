@@ -11,7 +11,8 @@ pic_ops_poc:
 - Gijs de Boer
 - Michael Rhodes
 deployment_sites: Skyway 36
-campaign_active_dates: 8 Sept (intercomp)
+campaign_active_dates:
+- 20240908 (intercomp)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

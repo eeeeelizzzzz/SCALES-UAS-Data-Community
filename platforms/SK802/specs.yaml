@@ -13,11 +13,11 @@ pic_ops_poc:
 - Gus Azevedo
 deployment_sites: Upstream SW
 campaign_active_dates:
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240909 (Downstream NW - 10 km)
+- 20240910 (Downstream NNW - 10 km)
+- 20240911 (Downstream NNW - 10 km)
+- 20240912 (Downstream NE - 10 km)
+- 20240913 (Downstream N - 10 km)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

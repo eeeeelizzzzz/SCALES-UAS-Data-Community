@@ -13,12 +13,14 @@ pic_ops_poc:
 - Nathan Rose
 deployment_sites:
 - Turb BMX N/S
-- Turb urban uas-E2 - Cascia Hall Performing Arts Center
+- Urban - Open low rise
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
+- 20240908 (intercomp)
+- 20240909 (Turb BMX N/S)
+- 20240910 (Turb BMX N/S)
+- 20240911 (Turb BMX N/S)
+- 20240912 (Urban - Open low rise)
+- 20240913 (Urban - Open low rise)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

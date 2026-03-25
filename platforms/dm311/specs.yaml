@@ -1,0 +1,25 @@
+# SCALES platform metadata (seeded from Data Reference Table; operator review encouraged)
+operator_name: Greensight
+wmo_operator_id:
+- '34'
+platform_model: GS-Wisp
+aircraft_type: Rotary-wing
+scales_component:
+- Meso
+- Micro-UHI
+data_poc: Mathew Cann
+data_poc_email: null
+pic_ops_poc: Matthew Cann
+deployment_sites:
+- Upstream SE - Lone Star Baptist Church
+campaign_active_dates:
+- 20240909 (Upstream SE - Lone Star Baptist Church)
+- 20240910 (Upstream SE - Lone Star Baptist Church)
+- 20240912 (Upstream SE - Lone Star Baptist Church)
+- 20240913 (Upstream SE - Lone Star Baptist Church)
+sensed_variables: null
+wind_adaptation_flag: null
+payload_relative_position: null
+sensor_airflow_solution: null
+airflow_relative_position: null
+num_rotors: null

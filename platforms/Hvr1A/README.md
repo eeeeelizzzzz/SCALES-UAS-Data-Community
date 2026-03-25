@@ -7,7 +7,7 @@
 - **Platform type:** Rotor
 - **SCALES component:** Micro-Turb
 - **Sites / locations:** Turb urban UAS-S1 - River West Festival Park, Turb Urban UAS N
-- **Active dates (campaign):** 8 Sept (intercomp), 12 Sept, 13 Sept, 9 Sept, 10 Sept, 11 Sept
+- **Active dates (campaign):** 20240908 (intercomp), 20240912, 20240913, 20240909, 20240910, 20240911
 - **PIC / ops POC:** Sean Bailey
 - **Data POC:** Sean Bailey
 

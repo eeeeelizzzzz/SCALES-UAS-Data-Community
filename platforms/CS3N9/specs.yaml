@@ -15,15 +15,11 @@ pic_ops_poc:
 - Jordan Tweedie
 deployment_sites:
 - Blackwell
-- Bixby
-- Upstream SE - Lone Star Baptist Church
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240909 (Blackwell)
+- 20240910 (Blackwell)
+- 20240911 (Blackwell)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

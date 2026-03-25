@@ -12,12 +12,12 @@ data_poc_email: null
 pic_ops_poc: Christopher Hartmann
 deployment_sites: Urban - Open low rise near S upstream boundary
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240909 (Urban - Open low rise near S upstream boundary)
+- 20240910 (Urban - Open low rise near S upstream boundary)
+- 20240911 (Urban - Open low rise near S upstream boundary)
+- 20240912 (Urban - Open low rise near S upstream boundary)
+- 20240913 (Urban - Open low rise near S upstream boundary)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

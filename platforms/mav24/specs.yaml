@@ -10,12 +10,11 @@ data_poc_email: null
 pic_ops_poc: David Brus
 deployment_sites: Upstream SW
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 13 Sept
-- 12 Sept
+- 20240908 (intercomp)
+- 20240910 (Upstream SW)
+- 20240911 (Upstream SW)
+- 20240912 (Upstream SW)
+- 20240913 (Upstream SW)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

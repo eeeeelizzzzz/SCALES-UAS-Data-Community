@@ -14,16 +14,13 @@ pic_ops_poc:
 - Alana Dachtler
 - Jordan Tweedie
 deployment_sites:
-- Blackwell
-- Bixby
-- Upstream SE - Lone Star Baptist Church
+- Upstream - Urban boundary
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 9 Sept
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240909 (Upstream - Urban boundary)
+- 20240910 (Upstream - Urban boundary)
+- 20240911 (Upstream - Urban boundary)
+- 20240912 (Upstream - Urban boundary)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null

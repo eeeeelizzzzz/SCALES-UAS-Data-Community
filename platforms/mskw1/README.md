@@ -7,7 +7,7 @@
 - **Platform type:** Rotor
 - **SCALES component:** Micro-UHI
 - **Sites / locations:** Upstream SW
-- **Active dates (campaign):** 8 Sept (intercomp), 9 Sept, 10 Sept, 11 Sept, 12 Sept, 13 Sept
+- **Active dates (campaign):** 20240908 (intercomp), 20240909, 20240910, 20240911, 20240912, 20240913
 - **PIC / ops POC:** David Brus
 - **Data POC:** David Brus
 

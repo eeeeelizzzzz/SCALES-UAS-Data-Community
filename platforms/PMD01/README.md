@@ -7,7 +7,7 @@
 - **Platform type:** Rotor
 - **SCALES component:** Meso
 - **Sites / locations:** Stillwater
-- **Active dates (campaign):** 8 Sept (intercomp), 9 Sept, 10 Sept, 11 Sept, 12 Sept, 13 Sept
+- **Active dates (campaign):** 20240908 (intercomp), 20240909 (Stillwater), 20240910 (Stillwater), 20240911 (Stillwater), 20240912 (Stillwater)
 - **PIC / ops POC:** Jackson Osborn
 - **Data POC:** Chris Cox
 
@@ -23,3 +23,13 @@ Machine-readable fields: see `specs.yaml`. Please extend this overview with miss
 ### 🔗 Quick Links
 - **[View All Issues & Alerts for PMD01](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/issues?q=is%3Aopen+label%3APMD01)**
 - **[View All Science Discussions for PMD01](https://github.com/eeeeelizzzzz/SCALES-UAS-Data-Community/discussions?discussions_q=label%3APMD01)**
+
+## Active Sites by IOP Day
+
+Derived from `SCALES_UAS_BY_IOP_final` catalog files (UTC).
+
+- **20240909:** Stillwater
+- **20240910:** Stillwater
+- **20240911:** Stillwater
+- **20240912:** Stillwater
+

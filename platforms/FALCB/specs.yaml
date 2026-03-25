@@ -11,13 +11,9 @@ data_poc_email: null
 pic_ops_poc: Gus Azevedo*
 deployment_sites:
 - Upstream - Urban boundary
-- Bixby
 campaign_active_dates:
-- 8 Sept (intercomp)
-- 10 Sept
-- 11 Sept
-- 12 Sept
-- 13 Sept
+- 20240908 (intercomp)
+- 20240913 (Upstream - Urban boundary)
 sensed_variables: null
 wind_adaptation_flag: null
 payload_relative_position: null
